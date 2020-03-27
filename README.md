@@ -61,13 +61,13 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ②在客户端新建数据集，选择与数据集匹配的任务类型，并选择数据集对应的路径，将数据集导入。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png" width = "500" height = "400" alt="00数据集导入说明" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png" width = "500" height = "300" alt="00数据集导入说明" align=center />
 
 ③选定导入数据集后，客户端会自动校验数据及标注文件是否合规，校验成功后，您可根据实际需求，将数据集按比例划分为训练集、验证集、测试集。
 
 ④您可在「数据分析」模块按规则预览您标注的数据集，双击单张图片可放大查看。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/01%E6%95%B0%E6%8D%AE%E5%88%87%E5%88%86%E5%8F%8A%E9%A2%84%E8%A7%88.png" width = "500" height = "400" alt="01数据切分及预览" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/01%E6%95%B0%E6%8D%AE%E5%88%87%E5%88%86%E5%8F%8A%E9%A2%84%E8%A7%88.png" width = "500" height = "300" alt="01数据切分及预览" align=center />
 
 
 
@@ -77,7 +77,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ② 您可根据实际任务需求选择项目的任务类型，需要注意项目所采用的数据集也带有任务类型属性，两者需要进行匹配。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/02%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE.png" width = "500" height = "400" alt="02创建项目" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/02%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE.png" width = "500" height = "300" alt="02创建项目" align=center />
 
 
 
@@ -85,11 +85,11 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ① **数据选择**：项目创建完成后，您需要选择已载入客户端并校验后的数据集，并点击下一步，进入参数配置页面。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/03%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E9%9B%86.png" width = "500" height = "400" alt="03选择数据集" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/03%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E9%9B%86.png" width = "400" height = "200" alt="03选择数据集" align=center />
 
 ② **参数配置**：主要分为**模型参数**、**训练参数**、**优化策略**三部分。您可根据实际需求选择模型结构、骨架网络及对应的训练参数、优化策略，使得任务效果最佳。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/04%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE.png" width = "500" height = "400" alt="04参数配置" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/04%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE.png" width = "500" height = "500" alt="04参数配置" align=center />
 
 参数配置完成后，点击启动训练，模型开始训练并进行效果评估。
 
@@ -97,9 +97,9 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 在训练过程中，您可通过VisualDL查看模型训练过程参数变化、日志详情，及当前最优的训练集和验证集训练指标。模型在训练过程中通过点击"终止训练"随时终止训练过程。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/05%E8%AE%AD%E7%BB%83%E5%8F%AF%E8%A7%86%E5%8C%96.png" width = "500" height = "400" alt="05训练可视化" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/05%E8%AE%AD%E7%BB%83%E5%8F%AF%E8%A7%86%E5%8C%96.png" width = "500" height = "300" alt="05训练可视化" align=center />
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/06VisualDL.png" width = "500" height = "400" alt="06VisualDL" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/06VisualDL.png" width = "500" height = "300" alt="06VisualDL" align=center />
 
 模型训练结束后，点击”下一步“，进入模型评估页面。
 
@@ -115,7 +115,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 当模型效果满意后，您可根据实际的生产环境需求，选择将模型发布为需要的版本。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/08%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83.png" width = "500" height = "400" alt="08模型发布" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/08%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83.png" width = "450" height = "350" alt="08模型发布" align=center />
 
 
 
