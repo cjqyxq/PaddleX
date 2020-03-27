@@ -61,7 +61,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ②在客户端新建数据集，选择与数据集匹配的任务类型，并选择数据集对应的路径，将数据集导入。
 
-![00数据集导入说明](https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png)
+![00数据集导入说明](https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png =100*100)
 
 ③选定导入数据集后，客户端会自动校验数据及标注文件是否合规，校验成功后，您可根据实际需求，将数据集按比例划分为训练集、验证集、测试集。
 
