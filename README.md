@@ -59,7 +59,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 数据标注完成后，需要根据不同的任务，将数据和标注文件，按照客户端提示更名并保存到正确的文件中。
 
-![image-20200326214525816](/Users/lvxueying/Library/Application Support/typora-user-images/image-20200326214525816.png)
+![数据集导入说明](https://github.com/LaraStupid/PaddleX/blob/master/images/数据集导入规则.jpg)
 
 在客户端新建数据集后，选择与数据集匹配的任务类型，并选择数据集对应的路径，将数据集导入：
 
