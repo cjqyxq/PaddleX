@@ -109,7 +109,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 在模型评估页面，您可将训练后的模型应用切分时留出的「验证数据集」测试模型在验证集上的效果。评估方法包括混淆矩阵、精度、召回率等。根据评估结果，您可决定进入模型发布页面，或返回先前步骤调整参数配置重新进行训练。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/07%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0.png" width = "500" height = "400" alt="07模型评估" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/07%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0.jpg" width = "500" height = "550" alt="07模型评估" align=center />
 
 ⑤**模型发布**
 
