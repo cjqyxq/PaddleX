@@ -61,7 +61,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ②在客户端新建数据集，选择与数据集匹配的任务类型，并选择数据集对应的路径，将数据集导入。
 
-![00数据集导入说明](https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png =100*100)
+![00数据集导入说明](https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png =350*100)
 
 ③选定导入数据集后，客户端会自动校验数据及标注文件是否合规，校验成功后，您可根据实际需求，将数据集按比例划分为训练集、验证集、测试集。
 
@@ -109,7 +109,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 在模型评估页面，您可将训练后的模型应用切分时留出的「验证数据集」测试模型在验证集上的效果。评估方法包括混淆矩阵、精度、召回率等。根据评估结果，您可决定进入模型发布页面，或返回先前步骤调整参数配置重新进行训练。
 
-![07模型评估](https://github.com/LaraStupid/PaddleX/blob/master/images/07%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0.png)
+![07模型评估](https://github.com/LaraStupid/PaddleX/blob/master/images/07%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0.png =340*320)
 
 
 
@@ -117,7 +117,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 当模型效果满意后，您可根据实际的生产环境需求，选择将模型发布为需要的版本。
 
-![08模型发布](https://github.com/LaraStupid/PaddleX/blob/master/images/08%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83.jpg)
+![08模型发布](https://github.com/LaraStupid/PaddleX/blob/master/images/08%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83.png)
 
 
 
