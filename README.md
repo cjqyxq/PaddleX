@@ -61,13 +61,13 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ②在客户端新建数据集，选择与数据集匹配的任务类型，并选择数据集对应的路径，将数据集导入。
 
-![00数据集导入说明](https://github.com/LaraStupid/PaddleX/blob/master/images/数据集导入规则.jpg)
+![00数据集导入说明](https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png)
 
 ③选定导入数据集后，客户端会自动校验数据及标注文件是否合规，校验成功后，您可根据实际需求，将数据集按比例划分为训练集、验证集、测试集。
 
 ④您可在「数据分析」模块按规则预览您标注的数据集，双击单张图片可放大查看。
 
-![01数据切分及预览](D:/百度/官网/官网文档编写/README.assets/划分数据集.jpg)
+![01数据切分及预览](https://github.com/LaraStupid/PaddleX/blob/master/images/01%E6%95%B0%E6%8D%AE%E5%88%87%E5%88%86%E5%8F%8A%E9%A2%84%E8%A7%88.png)
 
 
 
@@ -77,7 +77,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ② 您可根据实际任务需求选择项目的任务类型，需要注意项目所采用的数据集也带有任务类型属性，两者需要进行匹配。
 
-![02创建项目](D:/百度/官网/官网文档编写/README.assets/数据选择-1584953277024.jpg)
+![02创建项目](https://github.com/LaraStupid/PaddleX/blob/master/images/02%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE.png)
 
 
 
@@ -85,11 +85,11 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ① **数据选择**：项目创建完成后，您需要选择已载入客户端并校验后的数据集，并点击下一步，进入参数配置页面。
 
-![03选择数据集](D:/百度/官网/官网文档编写/README.assets/参数配置1.jpg)
+![03选择数据集](https://github.com/LaraStupid/PaddleX/blob/master/images/03%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E9%9B%86.png)
 
 ② **参数配置**：主要分为**模型参数**、**训练参数**、**优化策略**三部分。您可根据实际需求选择模型结构、骨架网络及对应的训练参数、优化策略，使得任务效果最佳。
 
-![04参数配置](D:/百度/官网/官网文档编写/README.assets/参数配置2.jpg)
+![04参数配置](https://github.com/LaraStupid/PaddleX/blob/master/images/04%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE.png)
 
 参数配置完成后，点击启动训练，模型开始训练并进行效果评估。
 
@@ -97,9 +97,9 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 在训练过程中，您可通过VisualDL查看模型训练过程参数变化、日志详情，及当前最优的训练集和验证集训练指标。模型在训练过程中通过点击"终止训练"随时终止训练过程。
 
-![05训练可视化](/Users/lvxueying/Desktop/PaddlePaddle/00-PaddleX/05-产品文档、PPT/README.assets/训练可视化.png)
+![05训练可视化](https://github.com/LaraStupid/PaddleX/blob/master/images/05%E8%AE%AD%E7%BB%83%E5%8F%AF%E8%A7%86%E5%8C%96.png)
 
-![06VisualDL](D:/百度/官网/官网文档编写/README.assets/训练可视化.jpg)
+![06VisualDL](https://github.com/LaraStupid/PaddleX/blob/master/images/06VisualDL.png)
 
 模型训练结束后，点击”下一步“，进入模型评估页面。
 
@@ -109,7 +109,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 在模型评估页面，您可将训练后的模型应用切分时留出的「验证数据集」测试模型在验证集上的效果。评估方法包括混淆矩阵、精度、召回率等。根据评估结果，您可决定进入模型发布页面，或返回先前步骤调整参数配置重新进行训练。
 
-![07模型评估](D:/百度/官网/官网文档编写/README.assets/模型评估.jpg)
+![07模型评估](https://github.com/LaraStupid/PaddleX/blob/master/images/07%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0.png)
 
 
 
@@ -117,7 +117,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 当模型效果满意后，您可根据实际的生产环境需求，选择将模型发布为需要的版本。
 
-![08模型发布](D:/百度/官网/官网文档编写/README.assets/模型发布-1584958908870.jpg)
+![08模型发布](https://github.com/LaraStupid/PaddleX/blob/master/images/08%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83.jpg)
 
 
 
@@ -155,7 +155,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 **如果您有更多问题或建议，欢迎以issue的形式，您加入PaddleX官方QQ群（1045148026）直接反馈您的问题和需求**
 
-![09qq群二维码](/Users/lvxueying/Library/Application Support/typora-user-images/image-20200327151059825.png)
+![09qq群二维码](https://github.com/LaraStupid/PaddleX/blob/master/images/09qq%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 
 
