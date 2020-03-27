@@ -45,7 +45,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 **第一步：下载客户端**
 
-您需要前往 [官网](https://www.paddlepaddle.org.cn/paddlex)填写基本信息后下载试用PaddleX可视化前端
+您需要前往 [官网](https://www.paddlepaddle.org.cn/paddle/paddlex)填写基本信息后下载试用PaddleX可视化前端
 
 
 
@@ -87,7 +87,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 <img src="https://github.com/LaraStupid/PaddleX/blob/master/images/03%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E9%9B%86.png" width = "400" height = "200" alt="03选择数据集" align=center />
 
-② **参数配置**：主要分为**模型参数**、**训练参数**、**优化策略**三部分。您可根据实际需求选择模型结构、骨架网络及对应的训练参数、优化策略，使得任务效果最佳。
+② **参数配置**：主要分为**模型参数**、**训练参数**、**优化策略**三部分。您可根据实际需求选择模型结构及对应的训练参数、优化策略，使得任务效果最佳。
 
 <img src="https://github.com/LaraStupid/PaddleX/blob/master/images/04%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE.png" width = "500" height = "500" alt="04参数配置" align=center />
 
@@ -95,7 +95,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ③ **训练可视化**：
 
-在训练过程中，您可通过VisualDL查看模型训练过程参数变化、日志详情，及当前最优的训练集和验证集训练指标。模型在训练过程中通过点击"终止训练"随时终止训练过程。
+在训练过程中，您可通过VisualDL查看模型训练过程时的参数变化、日志详情，及当前最优的训练集和验证集训练指标。模型在训练过程中通过点击"终止训练"随时终止训练过程。
 
 <img src="https://github.com/LaraStupid/PaddleX/blob/master/images/05%E8%AE%AD%E7%BB%83%E5%8F%AF%E8%A7%86%E5%8C%96.png" width = "500" height = "350" alt="05训练可视化" align=center />
 
@@ -107,7 +107,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ④ **模型评估**
 
-在模型评估页面，您可将训练后的模型应用切分时留出的「验证数据集」测试模型在验证集上的效果。评估方法包括混淆矩阵、精度、召回率等。在这个页面，您也可以直接查看模型在测试数据集上的预测效果。
+在模型评估页面，您可将训练后的模型应用在切分时留出的「验证数据集」以测试模型在验证集上的效果。评估方法包括混淆矩阵、精度、召回率等。在这个页面，您也可以直接查看模型在测试数据集上的预测效果。
 
 根据评估结果，您可决定进入模型发布页面，或返回先前步骤调整参数配置重新进行训练。
 
@@ -153,7 +153,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 
 
-**如果您有更多问题或建议，欢迎以issue的形式，您加入PaddleX官方QQ群（1045148026）直接反馈您的问题和需求**
+**如果您有更多问题或建议，欢迎以issue的形式，加入PaddleX官方QQ群（1045148026）直接反馈您的问题和需求**
 
 <img src="https://github.com/LaraStupid/PaddleX/blob/master/images/09qq%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png" alt="09qq群二维码" align=center />
 
