@@ -8,7 +8,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
  PaddleX不仅打通了深度学习开发的全流程、提供可视化开发界面， 还保证了开发者可以直接灵活地使用底层技术模块。
 
- 我们诚挚地邀请您前往 [官网](https://www.paddlepaddle.org.cn/paddlex)下载试用PaddleX可视化前端，并获得您宝贵的意见或开源项目贡献。
+ 我们诚挚地邀请您前往 [官网](https://www.paddlepaddle.org.cn/paddle/paddlex)下载试用PaddleX可视化前端，并获得您宝贵的意见或开源项目贡献。
 
 
 
