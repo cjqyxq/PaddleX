@@ -61,7 +61,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 ②在客户端新建数据集，选择与数据集匹配的任务类型，并选择数据集对应的路径，将数据集导入。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png" width = "500" height = "300" alt="00数据集导入说明" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/00数据集导入说明.png" width = "500" height = "350" alt="00数据集导入说明" align=center />
 
 ③选定导入数据集后，客户端会自动校验数据及标注文件是否合规，校验成功后，您可根据实际需求，将数据集按比例划分为训练集、验证集、测试集。
 
@@ -97,7 +97,7 @@ PaddleX Client是提升项目开发效率的核心模块，开发者可快速完
 
 在训练过程中，您可通过VisualDL查看模型训练过程参数变化、日志详情，及当前最优的训练集和验证集训练指标。模型在训练过程中通过点击"终止训练"随时终止训练过程。
 
-<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/05%E8%AE%AD%E7%BB%83%E5%8F%AF%E8%A7%86%E5%8C%96.png" width = "500" height = "300" alt="05训练可视化" align=center />
+<img src="https://github.com/LaraStupid/PaddleX/blob/master/images/05%E8%AE%AD%E7%BB%83%E5%8F%AF%E8%A7%86%E5%8C%96.png" width = "500" height = "350" alt="05训练可视化" align=center />
 
 <img src="https://github.com/LaraStupid/PaddleX/blob/master/images/06VisualDL.png" width = "500" height = "300" alt="06VisualDL" align=center />
 
